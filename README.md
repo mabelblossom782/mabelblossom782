@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mabelblossom782
+- 👋 Hi, I’m Mabel. Thanks for visiting!
 - 👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence
 - 🌱 I’m currently open to work 
 - 💞️ I’m looking to collaborate on projects related to Data Analysis!
