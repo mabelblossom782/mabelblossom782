@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mabelblossom782
-- 👀 I’m interested in Machine Learning, Artificial Intelligence and Robotics
-- 🌱 I’m currently learning C programming Language 
-- 💞️ I’m looking to collaborate on projects related to Web Development!
+- 👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence
+- 🌱 I’m currently open to work 
+- 💞️ I’m looking to collaborate on projects related to Data Analysis!
 - 📫 You can mail me on - mabel8923152@gmail.com
 
 <!---
